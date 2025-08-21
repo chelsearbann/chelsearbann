@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Product Management, Sustainability, ClimateTech, AgTech
 - 🎓 I have an MS in Sustainability from Tufts University
 - 🌱 I’m proficient in R, Python, and GIS
-- 📫 How to reach me chelsea.bann@tufts.edu
+- 📫 How to reach me chelsea.bann@tufts.edu or https://www.linkedin.com/in/chelsea-bann/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a side business in garden and home interior design!
 
