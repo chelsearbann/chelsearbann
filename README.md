@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chelsearbann
-- 👀 I’m interested in Data Science, Product Management, Sustainability, ClimateTech, AgTech, Economics, Impact Investing
+- 👀 I’m interested in Data Science, Product Management, AI for Sustainable Development, ClimateTech, AgTech, Economics, Impact Investing
 - 🎓 I have an MS in Sustainability from Tufts University
 - 🌱 I’m proficient in R, Python, and GIS
 - 📫 How to reach me: chelsea.bann@tufts.edu or https://www.linkedin.com/in/chelsea-bann/
